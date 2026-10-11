@@ -10,6 +10,11 @@
   No programo desde cero: <strong>orquesto IA para construir soluciones enterprise y valido el resultado</strong>.
 </p>
 
+<p align="center">
+  <a href="https://arulcancela.github.io/"><img src="https://img.shields.io/badge/Portfolio-arulcancela.github.io-1f2933?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/arulcancela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 ---
 
 ## 🧭 En qué creo
@@ -59,6 +64,14 @@ severidad y entrega un informe listo para dirección o para un cliente.
 
 ---
 
+## 📂 Otros proyectos
+
+### [url-shortener](https://github.com/arulcancela/url-shortener)
+> Acortador de URLs con analíticas en tiempo real y códigos QR.
+> **Next.js 14 · TypeScript · Prisma · NextAuth · Tests + CI.**
+
+---
+
 ## 🛠️ Stack y herramientas
 
 <p>
@@ -72,7 +85,7 @@ severidad y entrega un informe listo para dirección o para un cliente.
 
 `Google Workspace` · `GAM` · `Python` · `Admin SDK API` · `Reports API` ·
 `Service Accounts` · `OAuth2 / DWD` · `Migraciones enterprise` ·
-`Automatización` · `Docker` · `CI/CD`
+`Automatización` · `Docker` · `CI/CD` · `Next.js` · `TypeScript`
 
 ---
 
@@ -87,6 +100,9 @@ severidad y entrega un informe listo para dirección o para un cliente.
 ## 📫 Contacto
 
 <p>
+  <a href="https://arulcancela.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-arulcancela.github.io-1f2933?logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/arulcancela/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
