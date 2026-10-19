@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Raúl 👋</h1>
+<h1 align="center">Hola, soy Raúl</h1>
 
 <h3 align="center">AI-Augmented Engineer &amp; Cloud Automation Architect</h3>
 
 <p align="center">
-  <em>15 años de experiencia · Arquitectura Cloud &amp; Google Workspace · Automatización Enterprise con GAM y Python</em>
+  <em>Más de una década de experiencia · Arquitectura Cloud &amp; Google Workspace · Automatización Enterprise con GAM y Python</em>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ---
 
-## 🧭 En qué creo
+## En qué creo
 
-Llevo 15 años diseñando infraestructuras cloud, migrando empresas a Google Workspace y automatizando procesos a escala. Hoy trabajo en la intersección de tres pilares:
+Llevo más de una década diseñando infraestructuras cloud, migrando empresas a Google Workspace y automatizando procesos a escala. Hoy trabajo en la intersección de tres pilares:
 
 - **Google Workspace & Cloud a escala enterprise** → identidad, gobierno, seguridad, coexistencia M365/Workspace, GAM.
 - **Automatización robusta con Python** → transformar tareas operativas críticas en herramientas CLI, APIs y flujos reproducibles.
@@ -31,7 +31,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-## 🚀 Proyectos destacados (Portfolio Verificable)
+## Proyectos destacados (Portfolio Verificable)
 
 ### 1. [workspace-tenant-auditor](https://github.com/arulcancela/workspace-tenant-auditor)
 
@@ -48,7 +48,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 | **Calidad** | 60+ tests automatizados · 78% cobertura · CI con GitHub Actions · Docker |
 | **Modos** | Modo demostración sin credenciales · informes ejecutivos HTML/PDF/JSON |
 
-👉 **[Ver repositorio](https://github.com/arulcancela/workspace-tenant-auditor)** · **[Explicación sin jerga](https://github.com/arulcancela/workspace-tenant-auditor/blob/main/EXPLAINER.md)** · **[Arquitectura](https://github.com/arulcancela/workspace-tenant-auditor/blob/main/ARCHITECTURE.md)**
+**[Ver repositorio](https://github.com/arulcancela/workspace-tenant-auditor)** · **[Explicación sin jerga](https://github.com/arulcancela/workspace-tenant-auditor/blob/main/EXPLAINER.md)** · **[Arquitectura](https://github.com/arulcancela/workspace-tenant-auditor/blob/main/ARCHITECTURE.md)**
 
 ---
 
@@ -60,7 +60,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 - **Seguridad:** Módulo propio con lista negra y parser que previene inyecciones de comandos peligrosos (`ls && rm -rf /` bloqueado).
 - **Calidad:** 18 tests automatizados en CI.
 
-👉 **[Ver repositorio](https://github.com/arulcancela/agente-deepseek)**
+**[Ver repositorio](https://github.com/arulcancela/agente-deepseek)**
 
 ---
 
@@ -71,7 +71,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 - **Stack:** Python · LLMs (DeepSeek) · RAG · Streamlit · SQLite.
 - **Flujo:** Pipeline por etapas (`INGEST` → `RESEARCH` → `WRITE` → `REVIEW` → `REFINE` → `FINALIZE`).
 
-👉 **[Ver repositorio](https://github.com/arulcancela/agente-escritor)**
+**[Ver repositorio](https://github.com/arulcancela/agente-escritor)**
 
 ---
 
@@ -82,7 +82,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 - **Stack:** Python · Pydantic · Gemini / DeepSeek API · Notion API · Telegram Bot.
 - **Calidad:** 16 tests automatizados con CI y validación de anonimización de datos.
 
-👉 **[Ver repositorio](https://github.com/arulcancela/linkedin-job-hunter)**
+**[Ver repositorio](https://github.com/arulcancela/linkedin-job-hunter)**
 
 ---
 
@@ -93,11 +93,11 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 - **Stack:** Next.js 14 · TypeScript · Prisma · PostgreSQL · NextAuth · Vercel · Playwright.
 - **Calidad:** 41 tests unitarios + tests end-to-end (E2E) con Playwright y CI.
 
-👉 **[Ver repositorio](https://github.com/arulcancela/url-shortener)**
+**[Ver repositorio](https://github.com/arulcancela/url-shortener)**
 
 ---
 
-## 🛠️ Stack y tecnologías
+## Stack y tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?logo=googleworkspace&logoColor=white" alt="Google Workspace">
@@ -114,15 +114,15 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-## 📌 Estado actual & Disponibilidad
+## Estado actual & Disponibilidad
 
-- 🎯 **Disponibilidad:** **Inmediata**. Abierto a roles en **Arquitectura Cloud**, **Google Workspace Enterprise**, **Automatización con Python / GAM** y **Entornos Aumentados con IA** (Remoto prioritario o híbrido en Madrid).
-- 🔐 Profundizando en herramientas de auditoría, gobernanza y postura de seguridad cloud.
-- 🤖 Explorando flujos de agentes autónomos y desarrollo con IA validado iterativamente.
+- **Disponibilidad:** **Inmediata**. Abierto a roles en **Arquitectura Cloud**, **Google Workspace Enterprise**, **Automatización con Python / GAM** y **Entornos Aumentados con IA** (Remoto prioritario o híbrido en Madrid).
+- Profundizando en herramientas de auditoría, gobernanza y postura de seguridad cloud.
+- Explorando flujos de agentes autónomos y desarrollo con IA validado iterativamente.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p>
   <a href="https://arulcancela.github.io/">
