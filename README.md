@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  No programo desde cero: <strong>orquesto IA para diseñar y construir soluciones enterprise, validando cada resultado con rigor</strong>.
+  No programo desde cero: <strong>especifico, reviso lo que la IA va a hacer y valido el resultado antes de entregarlo</strong>.
 </p>
 
 <p align="center">
