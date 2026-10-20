@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Raúl</h1>
 
-<h3 align="center">AI-Augmented Engineer &amp; Cloud Automation Architect</h3>
+<h3 align="center">Automatización enterprise con IA · Google Workspace y GAM</h3>
 
 <p align="center">
   <em>Más de una década de experiencia · Arquitectura Cloud &amp; Google Workspace · Automatización Enterprise con GAM y Python</em>
