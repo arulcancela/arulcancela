@@ -52,7 +52,19 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-### 2. [agente-deepseek](https://github.com/arulcancela/agente-deepseek)
+### 2. [gam-policy-diff](https://github.com/arulcancela/gam-policy-diff)
+
+> Compara las políticas de dos tenants de Google Workspace exportadas con GAM y genera un informe HTML con el impacto para el usuario. Una migración no falla por el correo: falla por la política que nadie comparó.
+
+- **Stack:** Python 3.11+ · CLI · CSV, JSON y XLSX de GAM · informe HTML autocontenido.
+- **Calidad:** 139 tests · cobertura mínima del 85% en CI · Python 3.11 y 3.12 · sin dependencias en runtime.
+- **Detalle:** clasifica cada cambio en rompe flujo, requiere formación o sin impacto. El informe se busca y se filtra sin conexión.
+
+**[Ver repositorio](https://github.com/arulcancela/gam-policy-diff)** · **[Release v0.1.0](https://github.com/arulcancela/gam-policy-diff/releases)**
+
+---
+
+### 3. [agente-deepseek](https://github.com/arulcancela/agente-deepseek)
 
 > Agente de administración autónoma de Linux en lenguaje natural, con diseño seguro por defecto: clasifica acciones, bloquea comandos destructivos y valida comandos encadenados.
 
@@ -64,7 +76,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-### 3. [agente-escritor](https://github.com/arulcancela/agente-escritor)
+### 4. [agente-escritor](https://github.com/arulcancela/agente-escritor)
 
 > Pipeline multi-agente en Python que investiga en la web, redacta, evalúa y refina documentos técnicos de forma autónoma con RAG y exportación a PDF/DOCX.
 
@@ -75,7 +87,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-### 4. [linkedin-job-hunter](https://github.com/arulcancela/linkedin-job-hunter)
+### 5. [linkedin-job-hunter](https://github.com/arulcancela/linkedin-job-hunter)
 
 > Sistema automatizado que busca ofertas de empleo, las evalúa cuantitativamente contra un perfil profesional mediante un LLM (fit score 0-100) y genera cartas de presentación personalizadas con alertas a Notion y Telegram.
 
@@ -86,7 +98,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
 
 ---
 
-### 5. [url-shortener](https://github.com/arulcancela/url-shortener)
+### 6. [url-shortener](https://github.com/arulcancela/url-shortener)
 
 > Acortador de URLs full-stack con analíticas de clics en tiempo real, códigos QR y rate limiting distribuido. Desplegado en producción.
 
