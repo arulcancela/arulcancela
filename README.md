@@ -143,6 +143,7 @@ Mi valor no radica en picar código repetitivo, sino en **resolver el problema c
   <a href="https://www.linkedin.com/in/arulcancela/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://citas.micasaraul.duckdns.org/"><img src="https://img.shields.io/badge/Agenda-15%20min-1e40af?logo=googlecalendar&logoColor=white" alt="Agenda 15 minutos"></a>
   <a href="mailto:arulcancela@gmail.com">
     <img src="https://img.shields.io/badge/Email-arulcancela%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
